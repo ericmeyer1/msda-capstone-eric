@@ -18,3 +18,13 @@ This capstone project explores the use of machine learning models to predict pro
 - Build and evaluate machine learning models to predict the Efficiency Status of a production line.
 - Perform exploratory data analysis to uncover relationships between operational metrics and efficiency.
 - Showcase advanced analytics skills such as classification modeling and performance evaluation.
+
+---
+
+## Tools & Technologies
+
+- Python
+- Jupyter Notebooks
+- Git & GitHub
+- Overleaf (LaTeX)
+- VS Code
