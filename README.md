@@ -1,8 +1,7 @@
 # Predicting Manufacturing Efficiency Using Sensor and Network Data
 
 **Author:** Eric Meyer  
-**Capstone Project – MS in Data Analytics, Northwest Missouri State University** 
-**S554213@nwmissouri.edu**
+**Capstone Project – MS in Data Analytics, Northwest Missouri State University**  
 [Overleaf Report](https://www.overleaf.com/read/ytnsxycrkbwr#20b809)  
 [Dataset Source](https://www.kaggle.com/datasets/ziya07/intelligent-manufacturing-dataset)
 
