@@ -9,7 +9,7 @@
 
 ## Project Summary
 
-This capstone project investigates the use of machine learning to classify manufacturing process efficiency based on real-time sensor readings and network performance data. The goal was to assign each production observation to one of three efficiency levels—**Low**, **Medium**, or **High**—to support process monitoring and improvement in a smart manufacturing environment.
+This capstone project investigates the use of machine learning to classify manufacturing process efficiency based on real-time sensor readings and network performance data. The goal was to assign each production observation to one of three efficiency levels **Low**, **Medium**, or **High** to support process monitoring and improvement in a smart manufacturing environment.
 
 The dataset includes anonymized operational features such as temperature, vibration, operation mode, and connectivity metrics. After data cleaning and exploration, a Random Forest classification model was used to make predictions.
 
