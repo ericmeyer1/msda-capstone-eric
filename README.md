@@ -11,7 +11,7 @@
 
 This capstone project investigates the use of machine learning to classify manufacturing process efficiency based on real-time sensor readings and network performance data. The goal was to assign each production observation to one of three efficiency levels—**Low**, **Medium**, or **High**—to support process monitoring and improvement in a smart manufacturing environment.
 
-The dataset includes anonymized operational features such as temperature, vibration, operation mode, and connectivity metrics. After data cleaning and exploration, several classification models were tested. **XGBoost** and **Random Forest** were the top performers, with **XGBoost achieving an accuracy of 77.3%**.
+The dataset includes anonymized operational features such as temperature, vibration, operation mode, and connectivity metrics. After data cleaning and exploration, a Random Forest classification model was used to make predictions.
 
 ---
 
@@ -19,7 +19,7 @@ The dataset includes anonymized operational features such as temperature, vibrat
 
 - Clean and preprocess sensor and network data for modeling.
 - Use EDA to explore key variables influencing production efficiency.
-- Train and evaluate classification models (Logistic Regression, Random Forest, XGBoost).
+- Train and evaluate classification model (Random Forest).
 - Assess model performance using accuracy, F1-score, and confusion matrix.
 - Visualize key results including feature importance and class distributions.
 
