@@ -51,3 +51,26 @@ The dataset includes anonymized operational features such as temperature, vibrat
 | Medium    | 0.00      | 0.00   | 0.00     | 3,911   |
 | **Overall Accuracy** | - | - | **0.773** | 20,000 |
 
+---
+
+## Key Insights
+
+- **Sensor Data Matters:** Variables such as production speed, air temperature, and process temperature were strong predictors of efficiency.
+- **Class Imbalance is Real:** Most data points were labeled “Low,” making it hard for models to learn meaningful patterns in “Medium” and “High” classes.
+- **Random Forest Wins:** This model offered the best trade-off between accuracy, interpretability, and training time.
+
+---
+
+## Opportunities for Future Work
+
+- Apply other oversampling methods to address class imbalance.
+- Expand to **regression models** to predict continuous efficiency scores instead of classes.
+- Integrate the model into real-time **MES (Manufacturing Execution Systems)** for operational use.
+  
+---
+
+## Final Thoughts
+
+This project showcases how data science can unlock hidden insights from manufacturing environments and provide practical tools for process improvement. With more balanced data and real-time integration, these models have the potential to enhance decision-making and optimize factory performance on a large scale.
+
+---
